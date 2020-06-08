@@ -1,1 +1,1 @@
-# -German-Traffic-Signs-Recognition-Benchmark-
+# German-Traffic-Signs-Recognition-Benchmark-
